@@ -2,16 +2,16 @@
 
 ## Personal Information
 
-- **Name:** Your Name
-- **Username/Repository Name:** YourUsername
-- **Date of Birth:** Your Date of Birth
-- **Location:** Your City, Country
+- **Name:** Hilma Hayati Nufus
+- **Username/Repository Name:** haiilmaa
+- **Date of Birth:** confidential
+- **Location:** confidential
 
 ## Education
 
-- **Degree:** Your Degree
-- **School/University:** School/University Name
-- **Graduation Year:** Year of Graduation
+- **Degree:** student
+- **School/University:** Senior High School Sains Al-qur'an Wahid Hasyim Yogyakarta
+- **Graduation Year:** confidential
 
 ## Skills
 
